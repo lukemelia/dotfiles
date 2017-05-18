@@ -1,10 +1,6 @@
 caskroom/cask
-caskroom/fonts
-homebrew/completions
 homebrew/core
-homebrew/dupes
-homebrew/php
-homebrew/versions
-neovim/neovim
-osx-cross/avr
+homebrew/nginx
+homebrew/services
+puma/puma
 thoughtbot/formulae

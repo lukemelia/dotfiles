@@ -1,177 +1,113 @@
 1Password 6.app
-Adium.app
 Adobe
-Airfoil
-Airmail 2.app
-Alfred 2.app
+Adobe Creative Cloud
+Adobe Extension Manager CS6
+Adobe Photoshop CC 2014
+Adobe Photoshop CC 2015.5
 Alfred 3.app
-Alternote.app
-Amazon
-Amazon Cloud Drive App.app
+Amazon MP3 Downloader.app
 Amazon Music.app
-Aperture.app
+Android Studio.app
+Annotate.app
 App Store.app
-Arq.app
+Atom Beta.app
 Atom.app
-Auditri.app
 Automator.app
-Bartender 2.app
-Brave.app
-Byword.app
+Balsamiq Mockups.app
+Bartender.app
+Beam.app
+CCMenu.app
 Calculator.app
 Calendar.app
+Changes.app
+Charles.app
 Chess.app
 CloudApp.app
-CloudMagic Email.app
-Cloudup.app
-ColorSnapper.app
 Contacts.app
-CraftManager.app
-DNSCrypt Menubar.app
+Cyberduck.app
 DVD Player.app
-DaisyDisk.app
-Dash.app
 Dashboard.app
-Day One.app
-DeDRM.app
-Deliveries.app
 Dictionary.app
-DiskMaker X 5.app
-Divvy.app
 Dropbox.app
-Due.app
-Duo.app
 Evernote.app
-ExpanDrive.app
+Fabric.app
 FaceTime.app
 Fantastical 2.app
-Fantastical.app
 Firefox.app
-FirefoxDeveloperEdition.app
-Fluid Apps
-Fluid.app
-Flux.app
-Focus.app
+Flickr Uploadr.app
 Font Book.app
-Fonts.app
-GIPHY CAPTURE.app
-GPG Keychain.app
-Game Center.app
-Gifwit.app
-GitHub.app
+GapDebug
 GitUp.app
-Gmail.app
+GitX.app
+Glui.app
 Google Chrome Canary.app
 Google Chrome.app
-Google Drive.app
-Google Photos Backup.app
-Grammarly.app
-Growl.app
-Hemingway.app
-HyperLightDrifter.app
-IconJar.app
+GrandPerspective.app
+Graphic.app
+HTTP Client.app
+HandBrake.app
 Image Capture.app
+ImageAlpha.app
 ImageOptim.app
-Install OS X El Capitan.app
-Instapaper.app
-Karabiner.app
 Keynote.app
-Kindle.app
-KnockKnock.app
-Last.fm.app
 Launchpad.app
-LimeChat.app
-Lingo.app
-Lockdown.app
-MAMP
-MacVim.app
-Magnet.app
 Mail.app
 Maps.app
+Medis.app
 Messages.app
-MindNode Pro.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Word.app
 Mission Control.app
-Noizio.app
+MixTape Lite.app
+MultiBit.app
+MusicManager.app
 Notes.app
-Numbers.app
-OmniFocus Clip-o-Tron.app
-OmniFocus.app
-OmniGraffle.app
-PSequel.app
-Pages.app
-Paprika Recipe Manager.app
-Patterns.app
-Paw.app
+Nylas Mail.app
+PDFpen.app
+Pacifist.app
+Paws for Trello.app
 Photo Booth.app
 Photos.app
-Piezo.app
-PivotalTracker.app
-Pixelmator.app
-PocketCasts.app
-Pomodoro.app
-Popcorn-Time.app
-PowerPhotos.app
+Postgres.app
+Postico.app
 Preview.app
-QuickBooks.app
 QuickTime Player.app
-RecordIt.app
-Reeder.app
+Quiver.app
+Reflector 2.app
 Reminders.app
-RescueTime.app
-Safari Technology Preview.app
+SQLiteStudio.app
 Safari.app
-ScreenFlow 5.0.5.app
+Screaming Frog SEO Spider.app
 ScreenFlow.app
 Screenhero.app
-Screeny.app
-Seil.app
-Sequel Pro.app
-ShrinkIt.app
-Sketch DevTools Assistant.app
-Sketch.app
-Skitch.app
+SimPholders.app
+Siri.app
+SizeUp.app
 Skype.app
+Slack Beta.app
 Slack.app
-Snapselect.app
-Soulver.app
+Sling.app
 Spotify.app
-Steam.app
 Stickies.app
-Sunrise Calendar.app
-SuperDuper!.app
+Sublime Text.app
 System Preferences.app
-Tadam.app
-TaskExplorer.app
 TextEdit.app
-TextExpander 4.3.6.app
-TextExpander.app
-Textual 5.app
-The Unarchiver.app
 Time Machine.app
-Toggl.app
-TogglDesktop.app
-Transmission.app
-Transmit.app
-Trello.app
-Tweetbot.app
 Twitter.app
-Typed.app
 Utilities
 VLC.app
-VirtualBox.app
-Viscosity.app
-Visual Studio Code.app
 Wagon.app
+Xcode 7.app
+Xcode 8.app
+Xcode-Beta.app
 Xcode.app
-YakYak.app
-calibre.app
-cypress.app
-iA Writer Classic.app
 iBooks.app
 iMovie.app
-iPhoto Library Manager.app
-iPhoto.app
-iStat Menus.app
 iTerm.app
 iTunes.app
-teensy.app
+sqlitebrowser.app
+xScope.app
+zoom.us.app
