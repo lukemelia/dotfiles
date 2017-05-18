@@ -1,7 +1,6 @@
 [user]
-  name = Matt McManus
-  email = matt@mcmanus.io
-	signingkey = EDB8F457
+	name = Luke Melia
+	email = luke@lukemelia.com
 
 [hub]
   protocol = https
@@ -49,7 +48,7 @@
   tidy-up = !sh -c 'git rebase -i `git rev-parse origin/master`'
 
 [format]
-  pretty=format:%C(yellow)%h%Creset - %Cgreen(%ai)%Creset - %s  %C(bold blue)<%ae>%Creset%C(red)%d%Creset 
+  pretty=format:%C(yellow)%h%Creset - %Cgreen(%ai)%Creset - %s  %C(bold blue)<%ae>%Creset%C(red)%d%Creset
 
 [credential]
   helper = osxkeychain
@@ -75,7 +74,7 @@
   changed = green
   untracked = cyan
 [core]
-  excludesfile = ~/.gitignore
+  excludesfile = ~/.gitignore_global
   autocrlf     = input
   editor       = vim
 [fetch]

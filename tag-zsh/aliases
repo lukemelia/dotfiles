@@ -1,0 +1,26 @@
+alias git=hub
+alias be='bundle exec'
+
+alias y='cd $HOME/p/yapp'
+alias yc='cd $HOME/p/yapp/yapp-core'
+alias ym='cd $HOME/p/yapp/yapp-mobile'
+alias ya='cd $HOME/p/yapp/account'
+alias yd='cd $HOME/p/yapp/dashboard'
+alias ye='cd $HOME/p/yapp/editor'
+alias ys='cd $HOME/p/yapp/yapp-server'
+alias yan='cd $HOME/p/yapp/yapp-android'
+alias yio='cd $HOME/p/yapp/yapp-ios'
+alias yek='cd $HOME/p/yapp/yapp-ember-kit'
+alias yt='cd $HOME/p/yapp/yapp-themes'
+
+alias gs='git status'
+alias gpf='git pull --ff-only'
+alias gpr='git pull --rebase'
+alias gpu='git push --set-upstream origin $(git_current_branch)'
+alias gpupr='gpu && git pull-request'
+alias grc='git rebase --continue'
+
+alias ets='ember test --serve'
+alias nom='rm -Rf node_modules && npm cache clear && npm install'
+
+alias aliases='subl $HOME/.dotfiles/tag-zsh/aliases'
